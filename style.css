@@ -1,0 +1,40 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+text-align:center;
+}
+
+header{
+background:black;
+color:white;
+padding:20px;
+}
+
+nav{
+background:#222;
+padding:10px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+}
+
+.main{
+padding:40px;
+}
+
+.btn{
+background:green;
+color:white;
+padding:12px 25px;
+text-decoration:none;
+border-radius:5px;
+}
+
+.gallery img{
+width:250px;
+margin:10px;
+}
